@@ -5,7 +5,10 @@
     --light: #F8F2F0;
     --dark: #060315;
 }
-
+#logo{
+    max-height: 50px;
+    max-width: 50px;
+}
 .fw-medium {
     font-weight: 600 !important;
 }
